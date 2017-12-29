@@ -20,6 +20,18 @@ const Navbar = () => {
           <li className="nav-item">
             <Link className="nav-link" to="/example_02">example_02</Link>
           </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/react-router">react-router</Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/todoList">react-router</Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/reduxTest">ReduxTest</Link>
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/reduxNormalizr">ReduxNormalizr</Link>
+          </li>
         </ul>
       </div>
     </nav>);
